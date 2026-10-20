@@ -1,6 +1,8 @@
 # Tallowhold
 
-![Tallowhold battle](media/screenshot-clash.png)
+![Animated preview of Tallowhold: the candle army clashes with the Gloom's moths, then faces the boss, The Gloom Matriarch](media/tallowhold.webp)
+
+Full-quality video: [media/gameplay.mp4](media/gameplay.mp4)
 
 Tallowhold is a roguelike autobattler. An army of living candles holds a hall against the moths of the Gloom. Between battles you recruit squads and relics in the Candle Market, and then the fights play out on their own across 6 escalating waves and a boss, The Gloom Matriarch. It's built in Godot 4.7.2 with the Compatibility renderer and plays in the browser. The cast is 13 characters drawn as 80s Japanese anime-style cel art, generated from code as SVG and packed into one atlas. It's an original take inspired by *How Many Dudes?* by Butterscotch Shenanigans, with its own name, theme, units and text.
 

@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="UnitDef" format=3]
+
+[ext_resource type="Script" path="res://scripts/data/unit_def.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+id = &"wickthrower"
+display_name = "Wickthrower"
+blurb = "Lobs burning wicks from the back."
+family = 0
+role = 2
+recruitable = true
+cost = 6
+squad_size = 4
+hp = 45
+damage = 8
+attack_interval = 1.1
+attack_range = 170.0
+speed = 50.0
+radius = 9.0
+projectile_speed = 320.0
+support_power = 0.0
+blast_radius = 0.0
+blast_damage = 0
+summon_id = &""
+summon_interval = 0.0
+summon_count = 0
+bounty = 0
+color = Color(0.910, 0.843, 0.690, 1)

@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="WaveDef" format=3]
+
+[ext_resource type="Script" path="res://scripts/data/wave_def.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+title = "The Gloom Matriarch"
+enemy_ids = Array[StringName]([&"matriarch", &"moth", &"gloomwisp", &"husk"])
+counts = PackedInt32Array(1, 30, 10, 4)
+hp_scale = 2.6
+damage_scale = 1.7
+reward_gold = 0
+is_boss = true

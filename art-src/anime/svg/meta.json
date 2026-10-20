@@ -1,0 +1,99 @@
+{
+ "tallowguard": {
+  "family": "WAX",
+  "flame": [
+   100,
+   42,
+   34,
+   "warm"
+  ]
+ },
+ "wickthrower": {
+  "family": "WAX",
+  "flame": [
+   98,
+   38,
+   32,
+   "warm"
+  ]
+ },
+ "drip_matron": {
+  "family": "WAX",
+  "flame": [
+   100,
+   48,
+   34,
+   "warm"
+  ]
+ },
+ "waxling": {
+  "family": "WAX",
+  "flame": [
+   100,
+   88,
+   28,
+   "warm"
+  ]
+ },
+ "sparkrunner": {
+  "family": "FLAME",
+  "flame": [
+   96,
+   40,
+   34,
+   "warm"
+  ]
+ },
+ "fusepot": {
+  "family": "FLAME",
+  "flame": [
+   118,
+   48,
+   30,
+   "warm"
+  ]
+ },
+ "flarecaster": {
+  "family": "FLAME",
+  "flame": [
+   100,
+   36,
+   34,
+   "warm"
+  ]
+ },
+ "lensmender": {
+  "family": "GLASS",
+  "flame": [
+   100,
+   40,
+   32,
+   "cold"
+  ]
+ },
+ "prismshot": {
+  "family": "GLASS",
+  "flame": [
+   100,
+   38,
+   32,
+   "cold"
+  ]
+ },
+ "moth": {
+  "family": "GLOOM",
+  "flame": null
+ },
+ "gloomwisp": {
+  "family": "GLOOM",
+  "flame": null
+ },
+ "husk": {
+  "family": "GLOOM",
+  "flame": null
+ },
+ "matriarch": {
+  "family": "GLOOM",
+  "flame": null
+ }
+}

@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="UnitDef" format=3]
+
+[ext_resource type="Script" path="res://scripts/data/unit_def.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+id = &"flarecaster"
+display_name = "Flarecaster"
+blurb = "Slow, heavy long-range flares."
+family = 1
+role = 2
+recruitable = true
+cost = 8
+squad_size = 3
+hp = 40
+damage = 22
+attack_interval = 1.8
+attack_range = 240.0
+speed = 45.0
+radius = 9.0
+projectile_speed = 420.0
+support_power = 0.0
+blast_radius = 0.0
+blast_damage = 0
+summon_id = &""
+summon_interval = 0.0
+summon_count = 0
+bounty = 0
+color = Color(1.000, 0.761, 0.239, 1)

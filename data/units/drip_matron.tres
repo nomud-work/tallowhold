@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="UnitDef" format=3]
+
+[ext_resource type="Script" path="res://scripts/data/unit_def.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+id = &"drip_matron"
+display_name = "Drip Matron"
+blurb = "Drips new Waxlings into the fight."
+family = 0
+role = 5
+recruitable = true
+cost = 8
+squad_size = 1
+hp = 110
+damage = 4
+attack_interval = 1.2
+attack_range = 150.0
+speed = 35.0
+radius = 14.0
+projectile_speed = 260.0
+support_power = 0.0
+blast_radius = 0.0
+blast_damage = 0
+summon_id = &"waxling"
+summon_interval = 4.0
+summon_count = 3
+bounty = 0
+color = Color(0.969, 0.937, 0.863, 1)

@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="WaveDef" format=3]
+
+[ext_resource type="Script" path="res://scripts/data/wave_def.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+title = "Moth Tide"
+enemy_ids = Array[StringName]([&"moth", &"gloomwisp", &"husk"])
+counts = PackedInt32Array(52, 14, 7)
+hp_scale = 2.0
+damage_scale = 1.45
+reward_gold = 12
+is_boss = false

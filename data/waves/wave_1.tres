@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="WaveDef" format=3]
+
+[ext_resource type="Script" path="res://scripts/data/wave_def.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+title = "First Flutter"
+enemy_ids = Array[StringName]([&"moth"])
+counts = PackedInt32Array(24)
+hp_scale = 1.0
+damage_scale = 1.0
+reward_gold = 8
+is_boss = false

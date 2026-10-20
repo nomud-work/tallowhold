@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="UnitDef" format=3]
+
+[ext_resource type="Script" path="res://scripts/data/unit_def.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+id = &"matriarch"
+display_name = "The Gloom Matriarch"
+blurb = "Boss. Slams the ground and calls moths."
+family = 3
+role = 7
+recruitable = false
+cost = 0
+squad_size = 0
+hp = 3200
+damage = 20
+attack_interval = 1.6
+attack_range = 10.0
+speed = 28.0
+radius = 34.0
+projectile_speed = 0.0
+support_power = 0.0
+blast_radius = 95.0
+blast_damage = 30
+summon_id = &"moth"
+summon_interval = 6.0
+summon_count = 4
+bounty = 0
+color = Color(0.788, 0.659, 1.000, 1)

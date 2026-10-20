@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="RelicDef" format=3]
+
+[ext_resource type="Script" path="res://scripts/data/relic_def.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+id = &"powder_horn"
+display_name = "Powder Horn"
+blurb = "Bursts deal +50% damage in a wider ring."
+cost = 7
+effect = 3
+value = 0.5

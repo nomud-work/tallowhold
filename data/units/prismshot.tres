@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="UnitDef" format=3]
+
+[ext_resource type="Script" path="res://scripts/data/unit_def.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+id = &"prismshot"
+display_name = "Prismshot"
+blurb = "Ranged shots that slow the target."
+family = 2
+role = 6
+recruitable = true
+cost = 7
+squad_size = 4
+hp = 45
+damage = 7
+attack_interval = 1.0
+attack_range = 190.0
+speed = 50.0
+radius = 9.0
+projectile_speed = 360.0
+support_power = 1.5
+blast_radius = 0.0
+blast_damage = 0
+summon_id = &""
+summon_interval = 0.0
+summon_count = 0
+bounty = 0
+color = Color(0.659, 0.722, 1.000, 1)

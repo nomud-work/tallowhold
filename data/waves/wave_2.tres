@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="WaveDef" format=3]
+
+[ext_resource type="Script" path="res://scripts/data/wave_def.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+title = "Dusk Swarm"
+enemy_ids = Array[StringName]([&"moth", &"gloomwisp"])
+counts = PackedInt32Array(30, 6)
+hp_scale = 1.25
+damage_scale = 1.1
+reward_gold = 9
+is_boss = false

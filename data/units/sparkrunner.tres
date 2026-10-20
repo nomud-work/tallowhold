@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="UnitDef" format=3]
+
+[ext_resource type="Script" path="res://scripts/data/unit_def.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+id = &"sparkrunner"
+display_name = "Sparkrunner"
+blurb = "Fast striker. Hits often."
+family = 1
+role = 1
+recruitable = true
+cost = 6
+squad_size = 5
+hp = 38
+damage = 9
+attack_interval = 0.6
+attack_range = 4.0
+speed = 95.0
+radius = 8.0
+projectile_speed = 0.0
+support_power = 0.0
+blast_radius = 0.0
+blast_damage = 0
+summon_id = &""
+summon_interval = 0.0
+summon_count = 0
+bounty = 0
+color = Color(1.000, 0.541, 0.239, 1)

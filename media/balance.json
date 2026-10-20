@@ -1,0 +1,78 @@
+{
+ "runs_per_style": 200,
+ "seeds": "1000-1199",
+ "styles": {
+  "PLANNER": {
+   "avg_battles_won": 6.38,
+   "band": [
+    0.55,
+    0.9
+   ],
+   "ci95": [
+    0.745,
+    0.854
+   ],
+   "losses_by_wave": [
+    0,
+    8,
+    14,
+    13,
+    16,
+    31,
+    117
+   ],
+   "peak_units": 140,
+   "verdict": "OK",
+   "win_rate": 0.805,
+   "seconds": 952.469
+  },
+  "RANDOM": {
+   "avg_battles_won": 4.51,
+   "band": [
+    0.15,
+    0.6
+   ],
+   "ci95": [
+    0.259,
+    0.388
+   ],
+   "losses_by_wave": [
+    2,
+    41,
+    68,
+    75,
+    53,
+    47,
+    175
+   ],
+   "peak_units": 134,
+   "verdict": "OK",
+   "win_rate": 0.32,
+   "seconds": 790.727
+  },
+  "AFK": {
+   "avg_battles_won": 0.97,
+   "band": [
+    0.0,
+    0.1
+   ],
+   "ci95": [
+    0.0,
+    0.019
+   ],
+   "losses_by_wave": [
+    7,
+    200,
+    200,
+    193,
+    0,
+    0,
+    0
+   ],
+   "peak_units": 66,
+   "verdict": "OK",
+   "win_rate": 0.0,
+   "seconds": 226.208
+  }
+ }
+}

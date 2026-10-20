@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="UnitDef" format=3]
+
+[ext_resource type="Script" path="res://scripts/data/unit_def.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+id = &"tallowguard"
+display_name = "Tallowguard"
+blurb = "Thick candle that holds the front line."
+family = 0
+role = 0
+recruitable = true
+cost = 6
+squad_size = 3
+hp = 160
+damage = 7
+attack_interval = 1.0
+attack_range = 6.0
+speed = 42.0
+radius = 13.0
+projectile_speed = 0.0
+support_power = 0.0
+blast_radius = 0.0
+blast_damage = 0
+summon_id = &""
+summon_interval = 0.0
+summon_count = 0
+bounty = 0
+color = Color(0.949, 0.902, 0.788, 1)

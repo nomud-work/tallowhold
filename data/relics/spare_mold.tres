@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="RelicDef" format=3]
+
+[ext_resource type="Script" path="res://scripts/data/relic_def.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+id = &"spare_mold"
+display_name = "Spare Mold"
+blurb = "Summoners make +1 extra each time."
+cost = 7
+effect = 5
+value = 1.0
